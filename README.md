@@ -10,4 +10,4 @@ Este projeto front-end foi desenvolvido utilizando as seguintes tecnologias:
 - PostCSS
 - Vite
 
-Visualize o projeto em: https://rocket-blog-woad.vercel.app/
+Visualize o projeto em: https://login-screen-seven.vercel.app/
