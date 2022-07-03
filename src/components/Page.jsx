@@ -5,13 +5,13 @@ export function Page() {
     return(
         <div className="w-full h-full">
             <div className="flex justify-center relative lg:justify-between">
-                <div className="flex flex-col">
-                    <div className="m-10">
+                <div className="flex flex-col justify-center relative h-screen">
+                    <div className="m-10 absolute top-2">
                        <a href="#">
                         <Logo/>
                        </a>
                     </div>
-                    <div className="sm:bg-[#24221F] rounded-md py-5 sm:py-12 sm:px-20 lg:mx-[74px]">
+                    <div className="sm:bg-[#24221F] rounded-md py-5 sm:py-12 sm:px-20 lg:mx-[74px] 2xl:px-32 2xl:py-16 2xl:mx-40">
                         <Form />
                     </div>
                 </div>
